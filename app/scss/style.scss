@@ -3,10 +3,10 @@ $color_yellow: #efaf13;
 $color_blue: blue;
 
 body {
-    background-color: $color_blue;
+    background-color: $color_yellow;
 }
 
 .testing {
     width: percentage(5/7);
-    color: $color_yellow;
-  }
+    color: $color_blue;
+}
