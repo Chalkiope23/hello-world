@@ -4,7 +4,8 @@
   "description": "Test dev environment",
   "main": "gulpfile.js",
   "dependencies": {
-    "gulp-sass": "^4.0.1"
+    "gulp-sass": "^4.0.1",
+    "vue": "^2.5.16"
   },
   "devDependencies": {
     "browser-sync": "^2.24.4",
